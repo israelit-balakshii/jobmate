@@ -1,2 +1,2 @@
-# recturemate
-This is my first public repository with pet project as full stack web developer. Recruting system.
+# rectureMate
+This is a platform for recruter who wants to share contact with collegues to get and bonus.
